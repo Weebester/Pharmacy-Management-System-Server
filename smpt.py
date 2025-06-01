@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_ADDRESS = "st.kararalaa21@ced.nahrainuniv.edu.iq"
-EMAIL_PASSWORD = "zlkx hzev thyx edtp"  
+EMAIL_PASSWORD = "xxxx xxxx xxxx xxxx"  
 
 def send_email(to_email, subject, body):
     try:
